@@ -1,0 +1,838 @@
+{
+    "docs": [
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -123.41692,
+                    48.59444
+                ],
+                "formattedAddress": "7806 E Saanich Rd, Central Saanich, BC V8M, CA"
+            },
+            "_id": "65a68c041d72e9930ba84ea0",
+            "publishDate": "2024-01-16T19:30:22.000Z",
+            "id": 233041,
+            "title": "Farm worker, general",
+            "slug": "farm-worker-general-173",
+            "content": "CHANDEL FARMS LTD. based in Saanichton, BC is inviting applications from suitable candidates for the position of Farm worker, general who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job.\r\n\r\n<strong>Employer Name</strong>: CHANDEL FARMS LTD.\r\n<strong>Position</strong>: Farm worker, general\r\n<strong>No. of vacancies</strong>: 20\r\n<strong>Salary</strong>: $18.00 hourly / 30 to 35 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: Saanichton, BC\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must plant, cultivate, and irrigate crops.</li>\r\n \t<li>The candidate must operate and maintain farm machinery and equipment.</li>\r\n \t<li>The candidate must detect disease and health issues in crops, livestock, and poultry.</li>\r\n \t<li>The candidate will be expected to inspect the product for quality and prepare it for market.</li>\r\n \t<li>The candidate will be responsible for ensuring that safety procedures are followed.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>Training will be provided to the selected candidate.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:chandelfarms786@hotmail.com\">chandelfarms786@hotmail.com</a>",
+            "excerpt": "CHANDEL FARMS LTD. based in Saanichton, BC is inviting applications from suitable candidates for the position of Farm worker, general who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. Employer Name: &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "18.00",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "CHANDEL FARMS LTD.",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7806 E Saanich Rd",
+                        "addressLocality": "Saanichton",
+                        "addressRegion": "British Columbia",
+                        "postalCode": "V8M 2B3",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/farm-worker-general-173/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Farm worker, general",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/farm-worker-general-173/#schema-2044155",
+                "_id": "65a68c041d72e9930ba84ea1"
+            },
+            "categories": [
+                {
+                    "_id": "63904e14cbad82d742d81b33",
+                    "name": "British Columbia Jobs",
+                    "slug": "british-columbia-jobs"
+                },
+                {
+                    "_id": "63904df8fe0f222024f49b36",
+                    "name": "Farm worker",
+                    "slug": "farm-worker"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 07:30:22"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86854,
+                    49.14234
+                ],
+                "formattedAddress": "12788 76 A Ave, Surrey, BC V3W 1S9, CA"
+            },
+            "_id": "65a67df5a132450c901f5e6e",
+            "publishDate": "2024-01-16T18:30:23.000Z",
+            "id": 233036,
+            "title": "Administrative assistant - office",
+            "slug": "administrative-assistant-office-75",
+            "content": "A Sidhu &amp; Associates Inc. based in Surrey, BC is inviting applications from suitable candidates for the position of Administrative assistant - office who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. The shift timings include Day, Shift, Flexible Hours and Morning.\r\n\r\n<strong>Employer Name</strong>: A Sidhu &amp; Associates Inc.\r\n<strong>Position</strong>: Administrative assistant - office\r\n<strong>No. of vacancies</strong>: 1\r\n<strong>Salary</strong>: $25.00 hourly / 30 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: Surrey, BC\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate will be responsible for supervising other employees.</li>\r\n \t<li>The candidate will be expected to record and prepare minutes of meetings, seminars, and conferences.</li>\r\n \t<li>The candidate must determine and implement office procedures and routines.</li>\r\n \t<li>The candidate must schedule and confirm appointments.</li>\r\n \t<li>The candidate must answer the phone and relay phone calls and messages.</li>\r\n \t<li>The candidate must respond to electronic inquiries.</li>\r\n \t<li>The candidate must order office supplies and keep inventory.</li>\r\n \t<li>The candidate will be expected to greet visitors and direct them to appropriate contacts or service areas.</li>\r\n \t<li>The candidate will be responsible for opening and distributing regular and electronic incoming mail and other material, as well as coordinating information flow.</li>\r\n \t<li>The candidate must type and proofread correspondence, forms, and other documents.</li>\r\n \t<li>The candidate will be expected to perform basic bookkeeping tasks.</li>\r\n \t<li>The candidate will be responsible for assigning, coordinating, and reviewing projects and programmes.</li>\r\n \t<li>The candidate must work with minimal supervision.</li>\r\n \t<li>The candidate must enter data.</li>\r\n \t<li>The candidate must provide excellent customer service.</li>\r\n \t<li>The candidate will be responsible for planning, organising, directing, controlling, and evaluating daily operations.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>The candidate must have a College/CEGEP diploma or equivalent experience.</li>\r\n \t<li>The ideal candidate will have at least 1 to 2 years of experience in a related industry.</li>\r\n \t<li>The candidate must be able to supervise 3 to 4 people.</li>\r\n \t<li>The candidate must be able to multitask.</li>\r\n \t<li>The candidate should be accurate.</li>\r\n \t<li>The candidate should be client focused.</li>\r\n \t<li>The candidate must have excellent oral and written communication skills.</li>\r\n \t<li>The candidate should be organised and flexible in nature.</li>\r\n \t<li>The candidate should be reliable.</li>\r\n \t<li>The candidate should be a good team player.</li>\r\n \t<li>The candidate should have good judgemental skills.</li>\r\n \t<li>The candidate must be adaptable.</li>\r\n \t<li>The candidate must be a quick learner.</li>\r\n \t<li>The candidate must have excellent time management skills.</li>\r\n</ul>\r\n<h3><strong>Additional information</strong></h3>\r\n<h4><strong>Work conditions and physical capabilities</strong></h4>\r\n<ul>\r\n \t<li>The candidate should be able to work in fast-paced busy environment.</li>\r\n \t<li>The candidate should be willing to work under pressure.</li>\r\n \t<li>The candidate should be required to perform repetitive tasks on frequent basis.</li>\r\n \t<li>The candidate should have an eye for details.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:asidhuassociates@gmail.com\">asidhuassociates@gmail.com</a>",
+            "excerpt": "A Sidhu &amp; Associates Inc. based in Surrey, BC is inviting applications from suitable candidates for the position of Administrative assistant &#8211; office who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "25.00",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "A Sidhu &amp; Associates Inc.",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "12788 76a Ave #205",
+                        "addressLocality": "Surrey",
+                        "addressRegion": "British Columbia",
+                        "postalCode": "V3W 1S9",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/administrative-assistant-office-75/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Administrative assistant – office",
+                "description": "The candidate must have a College/CEGEP diploma or equivalent experience.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/administrative-assistant-office-75/#schema-2044108",
+                "_id": "65a67df5a132450c901f5e6f"
+            },
+            "categories": [
+                {
+                    "_id": "63904df7fe0f222024f49b22",
+                    "name": "Administrative assistant",
+                    "slug": "administrative-assistant"
+                },
+                {
+                    "_id": "63904e14cbad82d742d81b33",
+                    "name": "British Columbia Jobs",
+                    "slug": "british-columbia-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 06:30:23"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9594,
+                    49.13966
+                ],
+                "formattedAddress": "7579 Vedder Rd, Chilliwack, BC V2R 4E8, CA"
+            },
+            "_id": "65a66ff200fba766d63ce4e9",
+            "publishDate": "2024-01-16T17:30:37.000Z",
+            "id": 233034,
+            "title": "Kitchen helper",
+            "slug": "kitchen-helper-305",
+            "content": "Ginkgo Chinese Restaurant based in Chilliwack, BC is inviting applications from suitable candidates for the position of Kitchen helper who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. The position of Kitchen helper has been approved by the LMIA (Labour Market Impact Assessment).\r\n\r\n<strong>Employer Name</strong>: Ginkgo Chinese Restaurant\r\n<strong>Position</strong>: Kitchen helper\r\n<strong>No. of vacancies</strong>: 2\r\n<strong>Salary</strong>: $16.75 hourly / 40 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: Chilliwack, BC\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must clear and clean tables, trays, and chairs.</li>\r\n \t<li>The candidate must place dishes in the storage area.</li>\r\n \t<li>The candidate must prepare, heat, and finish simple food items.</li>\r\n \t<li>The candidate will be responsible for stocking refrigerators and salad bars.</li>\r\n \t<li>The candidate must clean and sanitise the kitchen, including work surfaces, cabinets, storage areas, appliances, and equipment.</li>\r\n \t<li>The candidate must be capable of handling and storing cleaning products.</li>\r\n \t<li>The candidate will be responsible for receiving, unpacking and storing supplies in refrigerators, freezers, cupboards and other storage areas.</li>\r\n \t<li>The candidate will be responsible for removing kitchen garbage and trash regularly.</li>\r\n \t<li>The candidate will be responsible for sweeping, mopping, washing and polishing floors.</li>\r\n \t<li>The candidate will be responsible for washing, peeling and cutting vegetables and fruits.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>Candidate having experience is an asset.</li>\r\n \t<li>The candidate must have a Food Safety Certificate.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:jialinping@hotmail.com\">jialinping@hotmail.com</a>",
+            "excerpt": "Ginkgo Chinese Restaurant based in Chilliwack, BC is inviting applications from suitable candidates for the position of Kitchen helper who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. The position of &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "16.75",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "Ginkgo Chinese Restaurant",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7579 Vedder Rd",
+                        "addressLocality": "Chilliwack",
+                        "addressRegion": "British Columbia",
+                        "postalCode": "V2R 4E8",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/kitchen-helper-305/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Kitchen helper | LMIA approved",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/kitchen-helper-305/#schema-2044067",
+                "_id": "65a66ff200fba766d63ce4ea"
+            },
+            "categories": [
+                {
+                    "_id": "63904e14cbad82d742d81b33",
+                    "name": "British Columbia Jobs",
+                    "slug": "british-columbia-jobs"
+                },
+                {
+                    "_id": "63904df8fe0f222024f49b38",
+                    "name": "Food counter attendants, kitchen helpers",
+                    "slug": "food-counter-attendants-kitchen-helpers"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ce5915e9106ff2fcdab",
+                    "name": "LMIA Jobs",
+                    "slug": "lmia-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 05:30:37"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -52.75145,
+                    47.55977
+                ],
+                "formattedAddress": "48 Kenmount Rd, St John's, NL A1B 1W2, CA"
+            },
+            "_id": "65a653c58185b88c87cf44d1",
+            "publishDate": "2024-01-16T15:30:24.000Z",
+            "id": 233029,
+            "title": "Waiter/waitress",
+            "slug": "waiter-waitress-113",
+            "content": "YH Holdings Inc based in 48 Kemount Rd, St. John's, NL A1B 1W3 is inviting applications from suitable candidates for the position of Waiter/waitress who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job.\r\n\r\n<strong>Employer Name</strong>: YH Holdings Inc\r\n<strong>Position</strong>: Waiter/waitress\r\n<strong>No. of vacancies</strong>: 2\r\n<strong>Salary</strong>: $15.50 hourly / 30 to 40 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: 48 Kemount Rd, St. John's, NL A1B 1W3\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must be of legal drinking age to mix and serve alcoholic beverages.</li>\r\n \t<li>The candidate will be expected to prepare and serve specialty food at the tables of customers.</li>\r\n \t<li>The candidate must present bills to customers and accept payment in cash, credit or debit cards, travellers cheques, or room billings.</li>\r\n \t<li>The candidate will be expected to describe menu items, including daily specials, to customers.</li>\r\n \t<li>The candidate will be expected to advise on menu selections.</li>\r\n \t<li>The candidate must balance cash and keep sales records.</li>\r\n \t<li>The candidate must clear and clean tables, trays, and chairs.</li>\r\n \t<li>The candidate must greet customers, present menus, make recommendations, and answer questions about food and beverages.</li>\r\n \t<li>The candidate must be able to serve food and beverages.</li>\r\n \t<li>The candidate will be responsible for taking orders and relaying them to kitchen and bar staff.</li>\r\n \t<li>The candidate must provide excellent customer service.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>The ideal candidate will have at least 1 to less than 7 months of experience in a related industry.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:yili7@outlook.com\">yili7@outlook.com</a>",
+            "excerpt": "YH Holdings Inc based in 48 Kemount Rd, St. John&#8217;s, NL A1B 1W3 is inviting applications from suitable candidates for the position of Waiter/waitress who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "15.50",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "YH Holdings Inc",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "48 Kenmount Rd",
+                        "addressLocality": "St. John's",
+                        "addressRegion": "Newfoundland and Labrador",
+                        "postalCode": "A1B 3P8",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/waiter-waitress-113/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Waiter/waitress",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/waiter-waitress-113/#schema-2043981",
+                "_id": "65a653c58185b88c87cf44d2"
+            },
+            "categories": [
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904e14cbad82d742d81b39",
+                    "name": "Newfoundland and Labrador Jobs",
+                    "slug": "newfoundland-labrador-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 03:30:24"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55623,
+                    46.43211
+                ],
+                "formattedAddress": "316 Rang de la Grande-Rivière, Lac-Etchemin, QC G0R 1S0, CA"
+            },
+            "_id": "65a645be2a2ba0c84f718910",
+            "publishDate": "2024-01-16T14:30:31.000Z",
+            "id": 233027,
+            "title": "Market garden worker",
+            "slug": "market-garden-worker-2",
+            "content": "Production du plateau coopérative de solidarité based in Lac-Etchemin, QC is inviting applications from suitable candidates for the position of Market garden worker who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Seasonal employment or Full time job.\r\n\r\n<strong>Employer Name</strong>: <a href=\"https://www.facebook.com/productionduplateau\">Production du plateau coopérative de solidarité</a>\r\n<strong>Position</strong>: Market garden worker\r\n<strong>No. of vacancies</strong>: 3\r\n<strong>Salary</strong>: $15.25 hourly / 35 hours per week\r\n<strong>Employment type</strong>: Seasonal employment, Full time\r\n<strong>Location</strong>: Lac-Etchemin, QC\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must clean the crop.</li>\r\n \t<li>The candidate will be responsible for deleafing.</li>\r\n \t<li>The candidate will be responsible for grading.</li>\r\n \t<li>The candidate must harvest vegetables by hand.</li>\r\n \t<li>The candidate must harvest seedlings.</li>\r\n \t<li>The candidate will be responsible for permaculture.</li>\r\n \t<li>The candidate must plant, cultivate, and irrigate crops.</li>\r\n \t<li>The candidate will be responsible for shoot positioning.</li>\r\n \t<li>The candidate must pick stones and/or wood.</li>\r\n \t<li>The candidate must perform vegetable culling.</li>\r\n \t<li>The candidate will be responsible for weeding.</li>\r\n \t<li>The candidate must harvest crops.</li>\r\n \t<li>The candidate will be responsible for sorting and packing fruits and vegetables.</li>\r\n \t<li>The candidate must pick row and orchard crops.</li>\r\n \t<li>The candidate must load, unload, and transfer crates, supplies, farm produce, livestock, and poultry.</li>\r\n \t<li>The candidate must clean the work area.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in French language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>Candidate having experience is an asset.</li>\r\n \t<li>The candidate should have effective interpersonal skills.</li>\r\n \t<li>The candidate must be flexible.</li>\r\n \t<li>The candidate should be a good team player.</li>\r\n \t<li>The candidate should be reliable.</li>\r\n \t<li>The candidate must be a quick learner.</li>\r\n</ul>\r\n<h4><strong>Work site environment</strong></h4>\r\n<ul>\r\n \t<li>Farm operations include fruit and vegetable combination farming, organic farming, and other miscellaneous crop farming.</li>\r\n \t<li>The candidate will be required to work long hours in an outdoor environment.</li>\r\n</ul>\r\n<h4><strong>Work setting</strong></h4>\r\n<ul>\r\n \t<li>The candidate must be willing to work in a rural area.</li>\r\n</ul>\r\n<h3><strong>Experience and specialization</strong></h3>\r\n<h4><strong>Type of product</strong></h4>\r\n<ul>\r\n \t<li>The products are vegetables.</li>\r\n</ul>\r\n<h4><strong>Type of crops</strong></h4>\r\n<ul>\r\n \t<li>Crops include asparagus, bell peppers, cabbage, carrots, cauliflowers, cucumbers, garlic, onions, tomatoes, zucchini, sugar beets, and potatoes.</li>\r\n</ul>\r\n<h3><strong>Additional information</strong></h3>\r\n<h4><strong>Transportation/travel information</strong></h4>\r\n<ul>\r\n \t<li>The candidate must have a valid driver's licence.</li>\r\n</ul>\r\n<h4><strong>Work conditions and physical capabilities</strong></h4>\r\n<ul>\r\n \t<li>The candidate should be prepared to perform physically demanding tasks as part of their daily work.</li>\r\n \t<li>The candidate must be willing to work long hours in bending, crouching, and kneeling positions.</li>\r\n</ul>\r\n<h3><strong>Benefits</strong></h3>\r\n<ul>\r\n \t<li>Long term and Other benefits will be provided to the selected candidate.</li>\r\n \t<li>Under Long Term Benefits, the selected candidate will receive additional benefits.</li>\r\n \t<li>In addition to the Long-term benefits mentioned above, the selected candidate will receive Free parking, Employer-paid learning/training, On-site housing options and Parking facilities.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:production.maraichere@gmail.com\">production.maraichere@gmail.com</a>\r\n\r\n<em><u>Note</u></em>\r\n\r\nPlease include the following while sending the application\r\n<ul>\r\n \t<li>Cover letter</li>\r\n</ul>",
+            "excerpt": "Production du plateau coopérative de solidarité based in Lac-Etchemin, QC is inviting applications from suitable candidates for the position of Market garden worker who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Seasonal employment or Full time &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "15.25",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "Production du plateau coopérative de solidarité",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "316 Rang de la Grande-Rivière",
+                        "addressLocality": "Lac-Etchemin",
+                        "addressRegion": "Quebec",
+                        "postalCode": "G0R 1S0",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/market-garden-worker-2/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Market garden worker",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/market-garden-worker-2/#schema-2043940",
+                "_id": "65a645be2a2ba0c84f718911"
+            },
+            "categories": [
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                },
+                {
+                    "_id": "63904e14cbad82d742d81b44",
+                    "name": "Québec Jobs",
+                    "slug": "quebec-jobs"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 02:30:31"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -113.21816,
+                    53.69174
+                ],
+                "formattedAddress": "9280 Southfort Dr, Fort Saskatchewan, AB T8L 0C5, CA"
+            },
+            "_id": "65a63793fd61c70b95526415",
+            "publishDate": "2024-01-16T13:30:08.000Z",
+            "id": 233025,
+            "title": "Asset Protection Specialist",
+            "slug": "asset-protection-specialist",
+            "content": "<span style=\"font-weight: 400;\">The Home Depot has released a notification in which they’re inviting candidates for the post of Asset protection specialist. They’re appointed to detain and interview persons apprehended for shoplifting. They’re also required to complete investigative case packages and statements regarding all types of theft and fraud for local police agencies. </span>\r\n\r\n<b>Employer Name: </b><span style=\"font-weight: 400;\">The Home Depot </span>\r\n<b>Position:</b><span style=\"font-weight: 400;\"> Asset protection specialist </span>\r\n<b>No. of vacancies: </b><span style=\"font-weight: 400;\">1 </span>\r\n<b>Salary: </b><span style=\"font-weight: 400;\">$21.50 per hour </span>\r\n<b>Employment Type: </b><span style=\"font-weight: 400;\">Full-time </span>\r\n<b>Location:</b><span style=\"font-weight: 400;\"> 900 Terminal Avenue, </span><span style=\"font-weight: 400;\">Vancouver Terminal, Canada </span>\r\n<h3><b>Job Description </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will have to maintain an open channel of communication with store management and all associates. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will have to effectively utilize CCTV and electronic article surveillance systems. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will also have store management to drive AP issues. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will also have to detail and interview persons for shoplifting following local laws. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates are free to conduct surveillance when required. </span></li>\r\n</ul>\r\n<h3><b>Job requirement </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must fulfill minimum time-in-position and performance management code requirements. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must have excellent analytical skills as well as strong verbal skills. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must have valid security and driver's licenses as required by the province. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must have access to reliable transportation.  </span></li>\r\n</ul>\r\n<h2><b>Work setting </b></h2>\r\n<ul>\r\n \t<li><span style=\"font-weight: 400;\">Candidates will also have to conduct surveillance when required. </span><b>  </b></li>\r\n</ul>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The minimum age of candidates required for this post is 18 years or more. </span></li>\r\n</ul>\r\n<h3><b>Benefits </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will get highly competitive pay.  </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will get travel time and mileage expenses. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The candidate is also entitled to profit sharing and a stock purchase plan. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Health and dental benefits are also allowed.</span></li>\r\n</ul>\r\n<h3><b>How to apply </b></h3>\r\n<span style=\"font-weight: 400;\">We have shared a dedicated link below. Click on the link and fill out the application form. Make sure to share genuine details asked in the application form. Some shortlisted candidates will be selected for the interview round. Candidates who clear the interview will get appointed as asset protection specialists. </span>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&amp;noback=1&amp;partnerid=25121&amp;siteid=5051&amp;jobid=1468672&amp;al=1&amp;codes=Adverto-CES\"><b>Apply now</b></a>\r\n\r\n&nbsp;",
+            "excerpt": "The Home Depot has released a notification in which they’re inviting candidates for the post of Asset protection specialist. They’re appointed to detain and interview persons apprehended for shoplifting. They’re also required to complete investigative case packages and statements regarding all types of theft and fraud for local police agencies.  Employer Name: The Home Depot  &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2023/03/The-Home-Depot-1024x696.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "21.50",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "The Home Depot ",
+                    "sameAs": "https://stores.homedepot.ca/",
+                    "logo": "https://canadajobbank.org/wp-content/uploads/2023/03/The-Home-Depot.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "900 Terminal Ave",
+                        "addressLocality": "Vancouver",
+                        "addressRegion": "British Columbia",
+                        "postalCode": "V6A 4G4",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2023/03/The-Home-Depot.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/asset-protection-specialist/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Asset Protection Specialist",
+                "description": "Candidates must fulfill minimum time-in-position and performance management code requirements. \n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/asset-protection-specialist/#schema-2043899",
+                "_id": "65a63793fd61c70b95526416"
+            },
+            "categories": [
+                {
+                    "_id": "63904e14cbad82d742d81b33",
+                    "name": "British Columbia Jobs",
+                    "slug": "british-columbia-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 01:30:08"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -80.45322,
+                    44.56198
+                ],
+                "formattedAddress": "4 Arthur St W, Blue Mountains, ON N0H 2P0, CA"
+            },
+            "_id": "65a629be631c9d8df61d041e",
+            "publishDate": "2024-01-16T12:30:36.000Z",
+            "id": 233023,
+            "title": "Rural and suburban mail carrier",
+            "slug": "rural-and-suburban-mail-carrier-48",
+            "content": "<span style=\"font-weight: 400;\">Canada Post has released a notification in which they’re painting candidates for the post of rural and suburban mail carrier. Candidates for this post will have to project a positive and courteous manner when dealing with customers face-to-face. Candidates are also appointed to be adept at sorting, collecting and delivering mail items, in a safe and timely manner. Registration for this post has already started and it will end soon. </span>\r\n\r\n<b>Employer Name: </b><span style=\"font-weight: 400;\">Canada Post</span><b> </b>\r\n<b>Position: </b><span style=\"font-weight: 400;\">Rural and suburban mail carrier. </span>\r\n<b>No. of vacancies: </b><span style=\"font-weight: 400;\">3 </span>\r\n<b>Salary: </b><span style=\"font-weight: 400;\">$17.75 per hour </span>\r\n<b>Employment Type: </b><span style=\"font-weight: 400;\">Part-time </span>\r\n<b>Location:</b><span style=\"font-weight: 400;\"> Kanata, Ontario, Canada</span>\r\n<h3><b>Job Description </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will have to project a positive and courteous manner when dealing with customers face-to-face. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will have to be adept at sorting, collecting and delivering mail items, in a safe and timely manner. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">They will have to acquire and maintain knowledge of local infrastructure including roads, customers and delivery receptacles.  </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates are also appointed to ensure mail is safely secured in their possession. </span></li>\r\n</ul>\r\n<h3><b>Job requirement </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must attain a minimum cargo capacity of 100 cu ft. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must attain a metal roof-top and accessory power outlet to accommodate a Canada Post sign and flashing light.  </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must allow for oversized and bulky items to be loaded. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates must have to provide and maintain the required automobile liability insurance for the use of your vehicle. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidate must have to notify your insurance company as to the use of your vehicle while employed at Canada Post.  </span></li>\r\n</ul>\r\n<h3><b>Work setting </b></h3>\r\n<ul>\r\n \t<li><span style=\"font-weight: 400;\">Candidates must attain a detailed satisfactory driving record for this post. </span><b>  </b></li>\r\n</ul>\r\n<h3><b>Benefits </b></h3>\r\n<ul>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will also get bonuses and promotions from time to time. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Candidates will be allowed to get complete family insurance. </span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">You’ll also get dedicated health benefits and medical benefits.</span></li>\r\n \t<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A highly competitive pay scale is also allowed.</span></li>\r\n</ul>\r\n<h3><b>How to apply </b></h3>\r\n<span style=\"font-weight: 400;\">Candidates who are interested fit this post are requested to click on the link and fill out the application form. Make sure to share genuine and certified information in the application otherwise, the registration gets cancelled. Some candidates get shortlisted for interviews, and candidates who clear the interview will get selected for this post. </span>\r\n\r\n&nbsp;\r\n\r\n<a href=\"https://jobs.canadapost.ca/job/Kanata-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ON/577135617/\"><b>Apply now</b></a>\r\n\r\n&nbsp;",
+            "excerpt": "Canada Post has released a notification in which they’re painting candidates for the post of rural and suburban mail carrier. Candidates for this post will have to project a positive and courteous manner when dealing with customers face-to-face. Candidates are also appointed to be adept at sorting, collecting and delivering mail items, in a safe &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/canada-post.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "17.75",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "Canada Post ",
+                    "sameAs": "https://www.canadapost.ca/",
+                    "logo": "https://canadajobbank.org/wp-content/uploads/2021/06/canada-post.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "680 Eagleson Rd",
+                        "addressLocality": "Kanata",
+                        "addressRegion": "Ontario",
+                        "postalCode": "K2M 2G0",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/canada-post.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/rural-and-suburban-mail-carrier-48/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Rural and suburban mail carrier",
+                "description": "Candidates must attain a metal roof-top and accessory power outlet to accommodate a Canada Post sign and flashing light.  \n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/rural-and-suburban-mail-carrier-48/#schema-2043858",
+                "_id": "65a629be631c9d8df61d041f"
+            },
+            "categories": [
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b6f",
+                    "name": "Ontario Jobs",
+                    "slug": "ontario-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 12:30:36"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -119.74093,
+                    49.17794
+                ],
+                "formattedAddress": "2035 Surprise Dr, Okanagan-Similkameen, BC V0X 1C2, CA"
+            },
+            "_id": "65a61b977bfabf7aaf02dc23",
+            "publishDate": "2024-01-16T11:30:38.000Z",
+            "id": 233021,
+            "title": "Labourer, fruit farming",
+            "slug": "labourer-fruit-farming-25",
+            "content": "1176925BC Ltd. based in Cawston, BC is inviting applications from suitable candidates for the position of Labourer, fruit farming who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Seasonal employment or Full time job. The shift timings include Day, Evening, Night, Weekend, Early Morning and Morning.\r\n\r\n<strong>Employer Name</strong>: 1176925BC Ltd.\r\n<strong>Position</strong>: Labourer, fruit farming\r\n<strong>No. of vacancies</strong>: 3\r\n<strong>Salary</strong>: $16.75 hourly / 40 to 60 hours per week\r\n<strong>Employment type</strong>: Seasonal employment, Full time\r\n<strong>Location</strong>: Cawston, BC\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must harvest crops.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>Training will be provided to the selected candidate.</li>\r\n</ul>\r\n<h4><strong>Work site environment</strong></h4>\r\n<ul>\r\n \t<li>The type of farm operation is fruit and vegetable combination farming.</li>\r\n \t<li>The candidate will be required to work long hours in an outdoor environment.</li>\r\n</ul>\r\n<h4><strong>Work setting</strong></h4>\r\n<ul>\r\n \t<li>The candidate must be willing to work in a rural area.</li>\r\n</ul>\r\n<h3><strong>Experience and specialization</strong></h3>\r\n<h4><strong>Type of crops</strong></h4>\r\n<ul>\r\n \t<li>The crops are apples.</li>\r\n</ul>\r\n<h3><strong>Additional information</strong></h3>\r\n<h4><strong>Work conditions and physical capabilities</strong></h4>\r\n<ul>\r\n \t<li>The candidate should be required to perform repetitive tasks on frequent basis.</li>\r\n \t<li>The candidate should be prepared to perform physically demanding tasks as part of their daily work.</li>\r\n \t<li>The candidate should have an eye for details.</li>\r\n \t<li>The candidate must be willing to work in a standing position for extended periods of time.</li>\r\n \t<li>The candidate must be willing to work long hours in bending, crouching, and kneeling positions.</li>\r\n</ul>\r\n<h3><strong>Benefits</strong></h3>\r\n<ul>\r\n \t<li>Under Financial Benefits, the selected candidate will be compensated for piece work.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:manjigill@hotmail.com\">manjigill@hotmail.com</a>\r\n\r\n<em><u>Note</u></em>\r\n\r\nPlease include the following while sending the application\r\n<ul>\r\n \t<li>Cover letter</li>\r\n</ul>",
+            "excerpt": "1176925BC Ltd. based in Cawston, BC is inviting applications from suitable candidates for the position of Labourer, fruit farming who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Seasonal employment or Full time job. The shift timings &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "16.75",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "1176925BC Ltd.",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2035 Surprise Rd",
+                        "addressLocality": "Cawston",
+                        "addressRegion": "British Columbia",
+                        "postalCode": "V0X 1C2",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/labourer-fruit-farming-25/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Labourer, fruit farming",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/labourer-fruit-farming-25/#schema-2043817",
+                "_id": "65a61b977bfabf7aaf02dc24"
+            },
+            "categories": [
+                {
+                    "_id": "63904e14cbad82d742d81b33",
+                    "name": "British Columbia Jobs",
+                    "slug": "british-columbia-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 11:30:38"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -81.17968,
+                    42.7788
+                ],
+                "formattedAddress": "945 Talbot St, St Thomas, ON N5P 1E8, CA"
+            },
+            "_id": "65a60d785c02292cea81541b",
+            "publishDate": "2024-01-16T10:30:27.000Z",
+            "id": 233019,
+            "title": "Food counter attendant",
+            "slug": "food-counter-attendant-336",
+            "content": "13787303 Canada Ltd. O/A Red Swan Pizza based in 1101-35 Mackenzie Way SW, Airdrie, AB T4B 0V7 is inviting applications from suitable candidates for the position of Food counter attendant who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. The shift timings include Day, Evening, Weekend, Shift, Flexible Hours and Morning.\r\n\r\n<strong>Employer Name</strong>: 13787303 Canada Ltd. O/A Red Swan Pizza\r\n<strong>Position</strong>: Food counter attendant\r\n<strong>No. of vacancies</strong>: 1\r\n<strong>Salary</strong>: $16.50 hourly / 30 to 40 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: 1101-35 Mackenzie Way SW, Airdrie, AB T4B 0V7\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate will be responsible for bringing clean dishes, flatware, and other items to serving areas as well as setting tables.</li>\r\n \t<li>The candidate will be responsible for carrying and replacing linen.</li>\r\n \t<li>The candidate must clean and sanitize items such as dishwasher mats, carts, and waste disposal units.</li>\r\n \t<li>The candidate must clear and clean tables, trays, and chairs.</li>\r\n \t<li>The candidate must load buspans and trays.</li>\r\n \t<li>The candidate must place dishes in the storage area.</li>\r\n \t<li>The candidate must replenish condiments and other supplies at tables and serving areas.</li>\r\n \t<li>The candidate will be required to hand-sanitize and wash dishes and other items.</li>\r\n \t<li>The candidate must clean pots and pans.</li>\r\n \t<li>The candidate will be responsible for keeping track of the food quantities consumed.</li>\r\n \t<li>The candidate will be responsible for packaging take-out food.</li>\r\n \t<li>The candidate must portion and wrap foods.</li>\r\n \t<li>The candidate must prepare, heat, and finish simple food items.</li>\r\n \t<li>The candidate will be required to serve customers at counters or buffet tables.</li>\r\n \t<li>The candidate will be expected to stock refrigerators and salad bars.</li>\r\n \t<li>The candidate will be required to take orders from customers.</li>\r\n \t<li>The candidate must clean, peel, slice, and trim foods using both manual and electrical appliances.</li>\r\n \t<li>The candidate must clean and sanitise the kitchen, including work surfaces, cabinets, storage areas, appliances, and equipment.</li>\r\n \t<li>The candidate must be capable of handling and storing cleaning products.</li>\r\n \t<li>The candidate will be responsible for receiving, unpacking and storing supplies in refrigerators, freezers, cupboards and other storage areas.</li>\r\n \t<li>The candidate will be responsible for removing kitchen garbage and trash regularly.</li>\r\n \t<li>The candidate must sharpen kitchen knives.</li>\r\n \t<li>The candidate will be responsible for sweeping, mopping, washing and polishing floors.</li>\r\n \t<li>The candidate will be responsible for washing, peeling and cutting vegetables and fruits.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>There are no standard education requirements such as a bachelor's degree, a certificate, or a diploma.</li>\r\n \t<li>Training will be provided to the selected candidate.</li>\r\n \t<li>The candidate should be client focused.</li>\r\n \t<li>The candidate should be reliable.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:prutheel12@gmail.com\">prutheel12@gmail.com</a>\r\n\r\n<strong>By mail</strong>\r\n\r\n1101-35 Mackenzie Way SW\r\nAirdrie, AB\r\nT4B 0V7",
+            "excerpt": "13787303 Canada Ltd. O/A Red Swan Pizza based in 1101-35 Mackenzie Way SW, Airdrie, AB T4B 0V7 is inviting applications from suitable candidates for the position of Food counter attendant who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "16.50",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "Red Swan Pizza",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "35 MacKenzie Way SW #1101",
+                        "addressLocality": "Airdrie",
+                        "addressRegion": "Alberta",
+                        "postalCode": "T4B 0V7",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/food-counter-attendant-336/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Food counter attendant",
+                "description": "There are no standard education requirements such as a bachelor’s degree, a certificate, or a diploma.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-16",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/food-counter-attendant-336/#schema-2043776",
+                "_id": "65a60d785c02292cea81541c"
+            },
+            "categories": [
+                {
+                    "_id": "63904e14cbad82d742d81b3d",
+                    "name": "Alberta Jobs",
+                    "slug": "alberta-jobs"
+                },
+                {
+                    "_id": "63904df8fe0f222024f49b38",
+                    "name": "Food counter attendants, kitchen helpers",
+                    "slug": "food-counter-attendants-kitchen-helpers"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 10:30:27"
+        },
+        {
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    -79.38613,
+                    43.66188
+                ],
+                "formattedAddress": "831 Bay St, Toronto, ON M5S 3M4, CA"
+            },
+            "_id": "65a5f179424687b283410093",
+            "publishDate": "2024-01-16T08:30:59.000Z",
+            "id": 232971,
+            "title": "Hairstylist",
+            "slug": "hairstylist-30",
+            "content": "N15 Hair Salon based in 831 Bay Street, Toronto, ON M5S 3M4 is inviting applications from suitable candidates for the position of Hairstylist who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time job. The shift timings include Day, Evening, Weekend and Morning.\r\n\r\n<strong>Employer Name</strong>: N15 Hair Salon\r\n<strong>Position</strong>: Hairstylist\r\n<strong>No. of vacancies</strong>: 2\r\n<strong>Salary</strong>: $17.00 hourly / 30 to 44 hours per week\r\n<strong>Employment type</strong>: Permanent employment, Full time\r\n<strong>Location</strong>: 831 Bay Street, Toronto, ON M5S 3M4\r\n<h3><strong>Job Description</strong></h3>\r\n<ul>\r\n \t<li>The candidate must book appointments.</li>\r\n \t<li>The candidate will be expected to shampoo customers' hair.</li>\r\n \t<li>The candidate will be expected to analyse hair and scalp conditions and provide basic treatment or advice on scalp and hair beauty care treatments.</li>\r\n \t<li>The candidate must colour, frost, or streak hair using bleach, tints, dyes, or rinses.</li>\r\n \t<li>The candidate must cut, trim, taper, curl, wave, perm, and style hair.</li>\r\n \t<li>The candidate must either suggest a hairstyle that is compatible with the client's physical features or determine a style based on the client's instructions and preferences.</li>\r\n \t<li>The candidate must perform receptionist duties.</li>\r\n \t<li>The candidate must maintain and order supplies.</li>\r\n</ul>\r\n<h3><strong>Job Requirements</strong></h3>\r\n<ul>\r\n \t<li>The candidate should be fluent in English language.</li>\r\n \t<li>The candidate must have a certificate or diploma in other trades or equivalent experience.</li>\r\n \t<li>The ideal candidate will have at least 2 to 3 years of experience in a related industry.</li>\r\n \t<li>The candidate must have a hairstylist licence.</li>\r\n</ul>\r\n<h4><strong>Work setting</strong></h4>\r\n<ul>\r\n \t<li>The candidate must work in a barbershop or a hairstyling salon/studio.</li>\r\n</ul>\r\n<h3><strong>Experience and specialization</strong></h3>\r\n<h4><strong>Hair styling techniques</strong></h4>\r\n<ul>\r\n \t<li>The candidate must be skilled in hair styling techniques such as blow drying, hair braiding, iron waving/curling, permanents, extensions, twisting, pin curls, and roller setting.</li>\r\n</ul>\r\n<h4><strong>Hair colouring techniques</strong></h4>\r\n<ul>\r\n \t<li>The candidate must be skilled in hair colouring techniques such as bleaching, dyes/tints, and streaking/highlighting.</li>\r\n</ul>\r\n<h3><strong>Additional information</strong></h3>\r\n<h4><strong>Work conditions and physical capabilities</strong></h4>\r\n<ul>\r\n \t<li>The candidate should be able to work in fast-paced busy environment.</li>\r\n \t<li>The candidate should be required to perform repetitive tasks on frequent basis.</li>\r\n \t<li>The candidate must perform manual dexterity tasks.</li>\r\n \t<li>The candidate should have an eye for details.</li>\r\n \t<li>The candidate must have excellent hand eye coordination.</li>\r\n \t<li>The candidate must be willing to work long hours in sitting, standing, and walking positions.</li>\r\n \t<li>The candidate must be willing to work in a standing position for extended periods of time.</li>\r\n</ul>\r\n<h3><strong>Benefits</strong></h3>\r\n<ul>\r\n \t<li>Under Financial benefits, the selected candidate will receive Bonus.</li>\r\n</ul>\r\n<h3><strong>How to Apply</strong></h3>\r\nIf you are interested in applying, apply through the given options.\r\n\r\n<strong>By email</strong>\r\n\r\n<a href=\"mailto:hiringn15salon@gmail.com\">hiringn15salon@gmail.com</a>",
+            "excerpt": "N15 Hair Salon based in 831 Bay Street, Toronto, ON M5S 3M4 is inviting applications from suitable candidates for the position of Hairstylist who are self-motivated and have good interpersonal skills. The candidate who got selected will be required to start work as soon as possible. The vacancies refer to Permanent employment or Full time &hellip;",
+            "featuredImg": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image-1024x698.jpg",
+            "post_meta": {
+                "baseSalary": {
+                    "value": {
+                        "value": "17.00",
+                        "unitText": "HOUR"
+                    },
+                    "@type": "MonetaryAmount",
+                    "currency": "CAD"
+                },
+                "hiringOrganization": {
+                    "name": "N15 Hair Salon",
+                    "sameAs": "https://canadajobbank.org/",
+                    "logo": "http://canadajobbank.org/wp-content/uploads/2021/06/Canada-Job-Bank.jpg"
+                },
+                "jobLocation": {
+                    "address": {
+                        "@type": "PostalAddress",
+                        "streetAddress": "831 Bay St.",
+                        "addressLocality": "Toronto",
+                        "addressRegion": "Ontario",
+                        "postalCode": "M5S 3M4",
+                        "addressCountry": "Canada"
+                    },
+                    "@type": "Place"
+                },
+                "image": {
+                    "@id": "https://canadajobbank.org/wp-content/uploads/2021/06/Featured-Image.jpg"
+                },
+                "mainEntityOfPage": {
+                    "@id": "https://canadajobbank.org/hairstylist-30/#webpage"
+                },
+                "@type": "JobPosting",
+                "title": "Hairstylist",
+                "description": "The candidate must have a certificate or diploma in other trades or equivalent experience.\n",
+                "datePosted": "2024-01-16",
+                "validThrough": "2024-02-17",
+                "employmentType": [
+                    "FULL_TIME"
+                ],
+                "experienceInPlaceOfEducation": "False",
+                "@id": "https://canadajobbank.org/hairstylist-30/#schema-2043540",
+                "_id": "65a5f179424687b283410094"
+            },
+            "categories": [
+                {
+                    "_id": "63904ad6a060ff26be563b73",
+                    "name": "Job Category",
+                    "slug": "job-category"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b6f",
+                    "name": "Ontario Jobs",
+                    "slug": "ontario-jobs"
+                },
+                {
+                    "_id": "63904ad6a060ff26be563b71",
+                    "name": "Province",
+                    "slug": "province"
+                }
+            ],
+            "__v": 0,
+            "publishDateFormat": "2024-01-16 08:30:59"
+        }
+    ],
+    "totalDocs": 11494,
+    "limit": 10,
+    "totalPages": 1150,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": true,
+    "prevPage": null,
+    "nextPage": 2
+}
